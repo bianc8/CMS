@@ -1,0 +1,25 @@
+{
+    "content_type_id": "squadra",
+    "fields": {
+        "nome": {
+            "it-IT": "S.S. BASKET SAN DONA' 1963"
+        },
+        "slug": {
+            "it-IT": "s-s-basket-san-dona-1963"
+        },
+        "campionato": {
+            "it-IT": "TORNEO PROVINCIALE DI 1a DIVISIONE"
+        },
+        "giocatori": {
+            "it-IT": [
+                {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Entry",
+                        "id": "2LAqiDsQqoVB0jpyKNBdXQ"
+                    }
+                }
+            ]
+        }
+    }
+}
